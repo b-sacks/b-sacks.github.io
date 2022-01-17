@@ -57,7 +57,7 @@ for item in arr:
     final_set_list.append(item.find('a').get_text())
 
 # outputs a message containing the artist name and the length of the setlist followed by the full setlist
-output_box = f"{display_artist} played {final_length} songs at their last show. This was their setlist:"
+output_box = f"{display_artist} played {final_length} songs at their last show. Their was their setlist:"
 print(output_box)
 for song in final_set_list:
     print(song)
