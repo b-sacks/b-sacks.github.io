@@ -7,7 +7,7 @@ python setlist.py
 Enter artist: Billie Eilish
 ```
 ### Output
-Billie Eilish played 3 songs at their last show. This was their setlist:
+Billie Eilish played 3 songs at their last show. Their was their setlist:
 * Happier Than Ever
 * Male Fantasy
 * The Night I Met Santa
